@@ -25,5 +25,7 @@ int main() {
 ```
 
 ```bash
-Hello meow                                                                         1 c                                                                                hello meow
+Hello meow
+1 c
+hello meow
 ```
